@@ -1,2 +1,2 @@
 
-git commit -m "Création du fichier readme"
+Création du fichier readme"
